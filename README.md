@@ -14,5 +14,5 @@ Independent security researcher specializing in EVM/Solidity smart contract audi
 | Crestal Network | [11/03/25](https://github.com/CasinoCompiler/audits/blob/main/Competitive/MD/Crestal-Network.md) | EVM | 1   | 0   | 0   |
 | Metropolis | [02/04/25](https://github.com/CasinoCompiler/audits/blob/main/Competitive/MD/Metropolis.md) | EVM | 0   | 1   | 0   |
 | Burve | [19/04/25](https://github.com/CasinoCompiler/audits/blob/main/Competitive/MD/Burve.md) | EVM | 1   | 1   | 0   |
-
-**Total Findings:** H: 16 | M: 17 | L: 8
+| |  | |   |    |    |
+| **Total Findings:** | | | 16   | 17   | 8   |
